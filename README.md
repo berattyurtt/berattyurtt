@@ -1,7 +1,7 @@
 ## Merhaba! Ben Berat 👋
 
 🚀 Frontend geliştiriciyim, çeşitli Frontend teknolojileri ile projeler geliştiriyorum.   
-🎯 Hedefim kurumsal bir firmada yazılım geliştirmek ve faydalı, katkı sağlayan projeler üretmek. 
+🎯 Hedefim kurumsal bir firmada yazılım geliştirmek ve faydalı, katkı sağlayan projeler üretmek.  
 🌱 Şu anda bir kişisel web sitesi ve interaktif karakter kağıdı projeleri üstünde çalışıyorum.
 
 ## 💼 İlgilendiğim Teknolojiler:
@@ -12,3 +12,4 @@
 
 ## 📫 İletişim:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/berattyurtt)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yurtberat01@gmail.com)
